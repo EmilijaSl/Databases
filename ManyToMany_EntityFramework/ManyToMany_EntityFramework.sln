@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToMany_EntityFramework", "ManyToMany_EntityFramework\ManyToMany_EntityFramework.csproj", "{66EAD838-F54C-41D8-9BA7-629C34992A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyAFPersistance", "ManyToManyAFPersistance\ManyToManyAFPersistance.csproj", "{5A51455B-BECE-436C-BB5A-EAB9FB88C891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EAD838-F54C-41D8-9BA7-629C34992A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EAD838-F54C-41D8-9BA7-629C34992A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EAD838-F54C-41D8-9BA7-629C34992A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EAD838-F54C-41D8-9BA7-629C34992A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A51455B-BECE-436C-BB5A-EAB9FB88C891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A51455B-BECE-436C-BB5A-EAB9FB88C891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A51455B-BECE-436C-BB5A-EAB9FB88C891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A51455B-BECE-436C-BB5A-EAB9FB88C891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF3C42D-BF5C-4FFA-86D2-AB22AAE440D6}
+	EndGlobalSection
+EndGlobal
