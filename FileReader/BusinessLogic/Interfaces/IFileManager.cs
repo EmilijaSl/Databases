@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic.Interfaces
 {
-    public interface IFileManager
+    public interface IFileManager  //tai, ka privalo implementuoti paveldincios klases
     {
         List<Folder> Folders { get; }
         List<LocalFile> Files { get; }
